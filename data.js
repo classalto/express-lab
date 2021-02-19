@@ -2,7 +2,7 @@
 
 const watches = [
   {
-    'id': '1',
+    'id': 1,
     'brand': 'omega',
     'name': 'speedmaster professional plexi',
     'limited': false,
@@ -12,7 +12,7 @@ const watches = [
     'description': 'The Omega Seamaster Bullhead was introduced in 1969. It is powered by the hand-wound caliber 930, which is turned 90 degrees counter clockwise in order to get to the bullhead look. It features an internal rotating bezel. The case measures 41.5 * 42 mm and is made of stainless steel. Together with the Flightmaster, it is one of the most notable examples of Omega\'s late sixties creativity in design.',
   },
   {
-    'id': '2',
+    'id': 2,
     'brand': 'omega',
     'name': 'seamaster planet ocean 600m',
     'limited': false,
@@ -22,7 +22,7 @@ const watches = [
     'description': 'The Omega Seamaster Bullhead was introduced in 1969. Together with the Flightmaster, it is one of the most notable examples of Omega\'s late sixties creativity in design.',
   },
   {
-    'id': '3',
+    'id': 3,
     'brand': 'omega',
     'name': 'seamaster bullhead 930',
     'limited': false,
@@ -32,7 +32,7 @@ const watches = [
     'description': 'The Omega Seamaster Bullhead was introduced in 1969. Together with the Flightmaster, it is one of the most notable examples of Omega\'s late sixties creativity in design.',
   },
   {
-    'id': '4',
+    'id': 4,
     'brand': 'seiko',
     'name': 'mechanical alpinist stainless steel',
     'limited': false,
@@ -42,7 +42,7 @@ const watches = [
     'description': 'The Seiko Alpinist SARB017 was introduced in 2006.',
   },
   {
-    'id': '5',
+    'id': 5,
     'brand': 'seiko',
     'name': 'prospex diver ssc489P1 ',
     'limited': false,
@@ -52,7 +52,7 @@ const watches = [
     'description': 'Since 1965, when Seiko launched its first diver’s watch, Seiko has been at the forefront of the technology of diver’s watches and many of the attributes now considered essential in the best diver’s watches were invented by Seiko.',
   },
   {
-    'id': '6',
+    'id': 6,
     'brand': 'seiko',
     'name': 'recraft cushion stainless steel',
     'limited': false,
@@ -62,7 +62,7 @@ const watches = [
     'description': 'The Seiko Recraft SNKN01 was introduced in 2014. It pairs a cushion-shaped case with a dial with sunburst finish. It is motivated by Seiko\'s self-winding caliber 7S26, which can be seen through the case back.',
   },
   {
-    'id': '7',
+    'id': 7,
     'brand': 'breitling',
     'name': 'galactic 36 automatic stainless steel',
     'limited': false,
@@ -72,7 +72,7 @@ const watches = [
     'description': 'Designed for women wishing to enjoy a blend of refined luxury and uncompromising technical sophistication',
   },
   {
-    'id': '8',
+    'id': 8,
     'brand': 'tagheuer',
     'name': 'link caliber 6',
     'limited': true,
@@ -82,7 +82,7 @@ const watches = [
     'description': 'For more than 20 years, the Link, the direct descendent of the famous S/el, has symbolized success, self-confidence and determination. The watch is easily recognizable by its bracelet of double-S links, a worldwide standard for flexibility, comfort, and ergonomics.',
   },
   {
-    'id': '9',
+    'id': 9,
     'brand': 'certina',
     'name': 'ds rookie chronograph',
     'limited': true,
@@ -92,7 +92,7 @@ const watches = [
     'description': 'This Certina Gent Quartz Collection DS Rookie Chronograph, ref. C016.417.17.057.00, has a stainless steel case and a rubber strap. The watch has a black dial and a date display at 6 o\'clock. ',
   },
   {
-    'id': '10',
+    'id': 10,
     'brand': 'certina',
     'name': 'ds super ph500m stainless steel',
     'limited': false,

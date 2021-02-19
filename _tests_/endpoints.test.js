@@ -22,7 +22,7 @@ it('should respond with all pokemon', async (done) => {
 it('should respond with the selected watch', async (done) => {
   const expectation = {
     results: {
-      'id': '3',
+      'id': 3,
       'brand': 'omega',
       'name': 'seamaster bullhead 930',
       'limited': false,
